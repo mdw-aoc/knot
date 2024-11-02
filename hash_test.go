@@ -3,7 +3,7 @@ package knot
 import (
 	"testing"
 
-	"github.com/mdwhatcott/testing/should"
+	"github.com/mdw-go/testing/should"
 )
 
 func TestStuff(t *testing.T) {
